@@ -6,7 +6,7 @@
 Jason	jason@git.com 	aaa
 # THANKS
 
-    <name>
+    to all students
 
 # TECHNOLOGY COLOPHON
 
