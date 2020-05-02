@@ -8,3 +8,6 @@ examples for git
 ## Deployment
 simple web project. Very simple
 ##How To Contribute
+
+###Copyright
+copyright
