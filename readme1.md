@@ -1,6 +1,7 @@
 #Starter Web Project
 
-Simple website project
+Simple website project.
+Adding a line for rebasing example
 ##Introduction
 example introduction
 ##Puropse
