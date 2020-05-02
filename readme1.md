@@ -2,7 +2,7 @@
 
 Simple website project.
 Adding a line for rebasing example, then more
-changes from myfeature branch too
+Updating for emergency fix
 ##Introduction
 example introduction
 ##Puropse
