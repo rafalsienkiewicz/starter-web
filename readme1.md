@@ -1,15 +1,15 @@
-#Starter Web Project
-
+# Starter Web Project
+branch branch branch
 Simple website project.
 Adding a line for rebasing example, then more
 Updating for emergency fix
-##Introduction
+## Introduction
 example introduction
-##Puropse
+## Puropse
 examples for git
 ## Deployment
 simple web project. Very simple
-##How To Contribute
+## How To Contribute
 please fork
-###Copyright
+### Copyright
 copyright . All rights reserved
