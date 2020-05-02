@@ -12,4 +12,4 @@ simple web project. Very simple
 ##How To Contribute
 please fork
 ###Copyright
-copyright
+copyright . All rights reserved
